@@ -1,0 +1,3 @@
+services:
+  csharp:
+    image: docker pull mcr.microsoft.com/dotnet/sdk:latest
