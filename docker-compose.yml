@@ -1,3 +1,7 @@
 services:
   csharp:
-    image: docker pull mcr.microsoft.com/dotnet/sdk:latest
+    image: mcr.microsoft.com/dotnet/sdk:7.0
+    volumes:
+      - ./todo-app:/src
+    working_dir: /src
+    entrypoint: /bin/bash
