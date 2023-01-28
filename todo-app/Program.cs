@@ -10,13 +10,13 @@ class Program {
         Todo secondTodo = new Todo("My second Todo", 5, "This is just another test.");
         Todo thirdTodo = new Todo("My third Todo", 7, "Seriously? More tests?");
 
-        List<Todo> todoList = new List<Todo>();
+        List<Todo> defaultTodoList = new List<Todo>();
         
-        todoList.Add(firstTodo);
-        todoList.Add(secondTodo);
-        todoList.Add(thirdTodo);
+        defaultTodoList.Add(firstTodo);
+        defaultTodoList.Add(secondTodo);
+        defaultTodoList.Add(thirdTodo);
 
-        UserInterface.launchUserInterface(todoList);
+        UserInterface.launchUserInterface(defaultTodoList);
 
     }
 }

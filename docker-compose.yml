@@ -2,6 +2,6 @@ services:
   csharp:
     image: mcr.microsoft.com/dotnet/sdk:7.0
     volumes:
-      - ./todo-app:/src
+      - ./:/src
     working_dir: /src
     entrypoint: /bin/bash
