@@ -27,7 +27,7 @@ Another option would be to leverage online code editors that feature a C# runtim
 
 More advanced users, can also use the [Visual Studio Code editor](https://visualstudio.microsoft.com/de/) and [Docker](https://www.docker.com/) for running the C# code in a container, for example. This way, no other binaries have to be installed. To start the container, simply run ``docker compose run csharp`` in the terminal of VSCode.
 
-Regardless of the option you choose, your setup is complete if you are able execute the __Hello World__ program in the [hello_world]. To do this, open the [c-sharp-course folder](./) in the IDE/editor of your choice, then open the [Program.cs file](./HelloWorld/Program.cs) within in the [HelloWorld folder](./HelloWorld) and run it. You should see an output like:
+Regardless of the option you chose, your setup is complete if you are able execute the provided __Hello World__ program. To do this, open the [c-sharp-course folder](./) in the IDE/editor of your choice, then open the [Program.cs file](./HelloWorld/Program.cs) within the [HelloWorld folder](./HelloWorld) and run it. You should see an output like:
 
 ```
 Welcome to the C# crash course! 🚀
