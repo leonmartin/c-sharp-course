@@ -1,6 +1,12 @@
 ﻿# C# Crash Course
 
-This crash course provides a concise introduction to the most important aspects of the beautiful C# language for beginners. In this course, you will implement a small prototypical banking application that allows a user to perform common tasks like viewing their account balance. The course is divided into several milestones: starting from an information systems perspective on the application in the conceptional stage to the actual implementation stages with hands-on programming.
+This crash course provides a concise introduction to the most important aspects of the beautiful C# language for beginners. In this course, you will implement a small prototypical banking application that allows a user to perform typical tasks like viewing their account balance. The course is divided into several milestones: starting from an information systems perspective on the application in the conceptional stage to the actual implementation stages with hands-on programming.
+
+Learning a new programming language is hard and things like this (s. [xkcd 1513](https://xkcd.com/1513/)) may happen if a pro looks at your first code:
+
+![xkcd 1513](https://imgs.xkcd.com/comics/code_quality.png)
+
+But keep in mind: Even a small step is a step forwards. Hence, have fun experimenting and trying out things even if they fail. 😎
 
 Note that this is a __crash course__ 🚀:
 
