@@ -1,0 +1,15 @@
+F:\GitRepositories\c-sharp-course\HelloWorld\bin\Release\net6.0\HelloWorld.exe
+F:\GitRepositories\c-sharp-course\HelloWorld\bin\Release\net6.0\HelloWorld.deps.json
+F:\GitRepositories\c-sharp-course\HelloWorld\bin\Release\net6.0\HelloWorld.runtimeconfig.json
+F:\GitRepositories\c-sharp-course\HelloWorld\bin\Release\net6.0\HelloWorld.dll
+F:\GitRepositories\c-sharp-course\HelloWorld\bin\Release\net6.0\HelloWorld.pdb
+F:\GitRepositories\c-sharp-course\HelloWorld\obj\Release\net6.0\HelloWorld.csproj.AssemblyReference.cache
+F:\GitRepositories\c-sharp-course\HelloWorld\obj\Release\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitRepositories\c-sharp-course\HelloWorld\obj\Release\net6.0\HelloWorld.AssemblyInfoInputs.cache
+F:\GitRepositories\c-sharp-course\HelloWorld\obj\Release\net6.0\HelloWorld.AssemblyInfo.cs
+F:\GitRepositories\c-sharp-course\HelloWorld\obj\Release\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+F:\GitRepositories\c-sharp-course\HelloWorld\obj\Release\net6.0\HelloWorld.dll
+F:\GitRepositories\c-sharp-course\HelloWorld\obj\Release\net6.0\refint\HelloWorld.dll
+F:\GitRepositories\c-sharp-course\HelloWorld\obj\Release\net6.0\HelloWorld.pdb
+F:\GitRepositories\c-sharp-course\HelloWorld\obj\Release\net6.0\HelloWorld.genruntimeconfig.cache
+F:\GitRepositories\c-sharp-course\HelloWorld\obj\Release\net6.0\ref\HelloWorld.dll
