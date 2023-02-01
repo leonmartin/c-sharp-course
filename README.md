@@ -37,4 +37,14 @@ Welcome to the C# crash course! 🚀
 
 For each milestone, a possible solution is provided. Depending on the scope of the application (that you set yourself) the provided solution and your solution might differ. Without an instructor, we recommend to use the provided solutions of each milestone as the starting point for the next one. The instructions, solutions and other material for each milestone are available in the indivudal milestone folders.
 
-So, you are now ready to start the crash course! 🥳 Open the [c-sharp-course](./) folder in the IDE/editor of your choice, read the instructions of within in the [Milestone01 folder](./Milestone01)
+So, you are now ready to start the crash course! 🥳 Open the [c-sharp-course](./) folder in the IDE/editor of your choice, read the instructions of within in the [Milestone01 folder](./Milestone01).
+
+## Technical Details
+
+This course was conceptualized and implemented using C# 11. Therefore,the solutions may differ depending on the version used.
+
+## Copyright
+
+See [COPYRIGHT](./COPYRIGHT).
+
+
