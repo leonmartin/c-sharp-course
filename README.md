@@ -2,6 +2,8 @@
 
 This crash course provides a concise introduction to the most important aspects of the beautiful C# language for beginners. In this course, you will implement a small prototypical banking application that allows a user to perform typical tasks like viewing their account balance. The course is divided into several milestones: starting from an information systems perspective on the application in the conceptional stage to the actual implementation stages with hands-on programming.
 
+⚠ __Attention__ ⚠: This course might not be suited for beginners in programming without an instructor!
+
 Learning a new programming language is hard and things like this (s. [xkcd 1513](https://xkcd.com/1513/)) may happen if a pro looks at your first code:
 
 ![xkcd 1513](https://imgs.xkcd.com/comics/code_quality.png)
@@ -17,9 +19,7 @@ Note that this is a __crash course__ 🚀:
 
 For researching and solving problems, [Stack Overflow](https://stackoverflow.com/), [Microsoft's C# documentation](https://learn.microsoft.com/en-us/dotnet/csharp/), and the surprisingly good [Wikipedia C# pages](https://en.wikipedia.org/wiki/C_Sharp_syntax), are recommended. For quick reference in the programming parts, we advise you to keep a [C# cheat sheet](https://download.microsoft.com/download/4/6/9/469501F4-5F6B-4E51-897C-9A216CFB30A3/SwiftCSharpPoster.pdf) of your choice at hand.
 
-⚠ __Attention__ ⚠: This course might not be suited for beginners in programming without an instructor!
-
-## Usage
+## Setup
 
 To tackle this crash course, you have to be able to write and run C# on your machine. For beginners, we recommend installing and using the [Visual Studio](https://visualstudio.microsoft.com/de/) IDE (select the .NET desktop application option in the installer).
 
