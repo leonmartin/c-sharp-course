@@ -43,8 +43,8 @@ So, you are now ready to start the crash course! 🥳 Open the [c-sharp-course](
 
 This course was conceptualized and implemented using C# 11. Therefore,the solutions may differ depending on the version used.
 
-## Copyright
+## License
 
-See [COPYRIGHT](./COPYRIGHT).
+See [LICENSE](./LICENSE).
 
 
