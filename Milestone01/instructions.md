@@ -45,7 +45,7 @@ You are now ready to create a class diagram for your banking application. There 
 
 Congratulations, you successfully used UML diagrams to create a concept for your banking application!
 
-To test wether you got the most important points of this milestone, answer the questions in the [quiz.md file](./quiz.md)
+To test wether you got the most important points of this milestone, answer the questions in the [quiz.md file](./quiz.md). If you are done you can proceed to [Milestone 02](../Milestone02/).
 
 
 

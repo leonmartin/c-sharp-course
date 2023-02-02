@@ -11,5 +11,5 @@ The objectives of this milestone are:
 
 ## Task 02.1: The basics of C# 
 
-## Task 02.1: Implementing a CLI
+## Task 02.2: Implementing a CLI
 

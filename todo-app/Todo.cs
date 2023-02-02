@@ -12,7 +12,7 @@
     }
 
     public Todo(string title, int priority, string description)
-    {   
+    {
         Title = title;
         Priority = priority;
         Description = description;
