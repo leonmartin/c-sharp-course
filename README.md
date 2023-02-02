@@ -2,9 +2,9 @@
 
 This crash course provides a concise introduction to the most important aspects of the beautiful C# language for beginners. In this course, you will implement a small prototypical banking application that allows a user to perform typical tasks like viewing their account balance. The course is divided into several milestones: starting from an information systems perspective on the application in the conceptional stage to the actual implementation stages with hands-on programming.
 
-⚠ __Attention__ ⚠: This course might not be suited for beginners in programming without an instructor!
+⚠ __Attention__ ⚠: This course might not be suited for beginners in programming without an instructor! Note that many parts of this course only show significantly simplified versions of software engineering and software development!
 
-Learning a new programming language is hard and things like this (s. [xkcd 1513](https://xkcd.com/1513/)) may happen if a pro looks at your first code:
+Learning a new programming language is hard and things like this (s. [xkcd 1513](https://xkcd.com/1513/)) might happen if a pro looks at your first code:
 
 ![xkcd 1513](https://imgs.xkcd.com/comics/code_quality.png)
 
@@ -37,7 +37,7 @@ Welcome to the C# crash course! 🚀
 
 For each milestone, a possible solution is provided. Depending on the scope of the application (that you set yourself) the provided solution and your solution might differ. Without an instructor, we recommend to use the provided solutions of each milestone as the starting point for the next one. The instructions, solutions and other material for each milestone are available in the indivudal milestone folders.
 
-So, you are now ready to start the crash course! 🥳 Open the [c-sharp-course](./) folder in the IDE/editor of your choice, read the instructions of within in the [Milestone01 folder](./Milestone01).
+So, you are now ready to start the crash course! 🥳 Open the [c-sharp-course](./) folder in the IDE/editor of your choice, read the [instructions.md file](./Milestone01/instructions.md) within the [Milestone01 folder](./Milestone01).
 
 ## Technical Details
 
