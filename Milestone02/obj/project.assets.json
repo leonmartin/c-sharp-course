@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ba3jv6\\Local Folders\\My Local Files\\Git\\c-sharp-course\\Milestone03\\Milestone03.csproj",
-      "projectName": "Milestone03",
-      "projectPath": "C:\\Users\\ba3jv6\\Local Folders\\My Local Files\\Git\\c-sharp-course\\Milestone03\\Milestone03.csproj",
+      "projectUniqueName": "C:\\Users\\ba3jv6\\Local Folders\\My Local Files\\Git\\c-sharp-course\\Milestone02\\Milestone02.csproj",
+      "projectName": "Milestone02",
+      "projectPath": "C:\\Users\\ba3jv6\\Local Folders\\My Local Files\\Git\\c-sharp-course\\Milestone02\\Milestone02.csproj",
       "packagesPath": "C:\\Users\\ba3jv6\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ba3jv6\\Local Folders\\My Local Files\\Git\\c-sharp-course\\Milestone03\\obj\\",
+      "outputPath": "C:\\Users\\ba3jv6\\Local Folders\\My Local Files\\Git\\c-sharp-course\\Milestone02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ba3jv6\\AppData\\Roaming\\NuGet\\NuGet.Config",

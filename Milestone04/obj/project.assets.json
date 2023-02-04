@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ba3jv6\\Local Folders\\My Local Files\\Git\\c-sharp-course\\Milestone03\\Milestone03.csproj",
-      "projectName": "Milestone03",
-      "projectPath": "C:\\Users\\ba3jv6\\Local Folders\\My Local Files\\Git\\c-sharp-course\\Milestone03\\Milestone03.csproj",
+      "projectUniqueName": "C:\\Users\\ba3jv6\\Local Folders\\My Local Files\\Git\\c-sharp-course\\Milestone03\\app.csproj",
+      "projectName": "app",
+      "projectPath": "C:\\Users\\ba3jv6\\Local Folders\\My Local Files\\Git\\c-sharp-course\\Milestone03\\app.csproj",
       "packagesPath": "C:\\Users\\ba3jv6\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ba3jv6\\Local Folders\\My Local Files\\Git\\c-sharp-course\\Milestone03\\obj\\",
       "projectStyle": "PackageReference",

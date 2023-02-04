@@ -1,13 +1,13 @@
-# Milestone 02: The User Interface
+# Milestone 02: Becoming Friends with C#
 
-Maybe you have been wondering why there wasn't any programming yet even though this is supposed to be programming crash course. Well, the wait is over. After making the concept of our application explicit using UML diagrams, we can now finally start programming. 🥳
+Maybe you have been wondering why there wasn't any programming yet even though this is supposed to be programming crash course. Good news, the wait is over. 🥳
 
 The objectives of this milestone are:
 
 - Getting used to the C# syntax
-- Learn how to process user input in a command line interface
-- Create your first C# class
-- Get to know loops and if-then-else constructs
+- Learn and use basic data types
+- Create your first classes and objects
+- Use loops and if-then-else constructs
 
 ## Task 02.1: The basics of C# 
 
