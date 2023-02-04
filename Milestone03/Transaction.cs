@@ -1,10 +1,10 @@
 ﻿public struct Transaction
 {
     public decimal Amount;
-    public int OtherAccountNumber;
+    public string OtherAccountNumber;
     public DateTime Timestamp;
 
-    public Transaction(decimal amount, int otherAccountNumber)
+    public Transaction(decimal amount, string otherAccountNumber)
     {
         Amount = amount;
         OtherAccountNumber = otherAccountNumber;

@@ -2,7 +2,7 @@
   
 class UserInterface {
 
-    public AccountsManager myAccountsManager;
+    public AccountsManager Manager;
 
     public string initMessage = """
         Please select one option by entering the according number:
@@ -14,22 +14,22 @@ class UserInterface {
 
     public UserInterface() 
     {
-        AccountsManager myAccountsManager = new AccountsManager();
+        Manager = new AccountsManager();
     }
 
     public void DisplayAccountsOverview()
     {
-        List<Account> accounts = myAccountsManager.Accounts;
+        List<Account> accounts = Manager.Accounts;
 
         foreach (Account account in accounts)
         {
-            Console.WriteLine(account);
+            Console.WriteLine($"Account {account.AccountNumber}: {account.Balance}€ after {account.Transactions.Count} transactions.");
         }
     }
 
-    public void DisplayAccountDetails(int accountNumber)
+    public void DisplayAccountDetails(string accountNumber)
     {
-        List<Account> accounts = myAccountsManager.Accounts;
+        List<Account> accounts = Manager.Accounts;
 
         foreach (Account account in accounts)
         {
@@ -45,12 +45,17 @@ class UserInterface {
 
     public void ExitUserInterface()
     {
+        Console.WriteLine("""
+        ****************************************
+        *************** Bye Bye! ***************
+        ****************************************
+        """);
         System.Environment.Exit(0);
     }
   
     public void LaunchUserInterface()
     {
-        
+
         Console.WriteLine("""
         ****************************************
         *** Welcome to the best Banking App! ***
@@ -62,7 +67,7 @@ class UserInterface {
             Console.WriteLine(initMessage);
 
             string chosenOption = Console.ReadLine() ?? "1";
-            int option = Int16.Parse(chosenOption);
+            int option = Int32.Parse(chosenOption);
 
             switch (option)
             {
@@ -72,13 +77,15 @@ class UserInterface {
 
                 case 2:
                     Console.WriteLine("Please enter the account number:");
-                    string userInput = Console.ReadLine() ?? "1";
-                    int accountNumber = Int16.Parse(userInput);
+                    string accountNumber = Console.ReadLine() ?? "1";
 
                     DisplayAccountDetails(accountNumber);
                     break;
 
                 case 3:
+                    break;
+
+                case 4:
                     ExitUserInterface();
                     break;
 
