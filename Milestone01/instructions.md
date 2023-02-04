@@ -17,6 +17,8 @@ Remember that you can always compare your results with the solutions provided in
 
 Your first task is to think about the concrete use cases that a banking application should provide. In the course of this course (😉), we will try to implement an application serving these use cases. Of course, you can scale this thing up as big as you want but we would recommend to limit yourself to three to five basic use cases.
 
+![User Needs](../pictures/user_needs.webp)
+
 When you are ready, prepare a [UML Use Case Diagram](https://en.wikipedia.org/wiki/Use_case_diagram) visualizing your use cases. To keep it simple, assume that there is only one actor, i.e. the user of the application.
 
 ## Task 01-2: Activity Diagrams

@@ -12,3 +12,6 @@ The objectives of this milestone are:
 
 ## Task 02.2: Implementing a CLI
 
+This marks the end of the crash course! I hope you enjoyed it and learned something useful. You are now ready for the real world:
+
+![Bachelor versus Coding Camps](../pictures/bachelor_versus_camps.jpg)

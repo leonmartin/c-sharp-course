@@ -4,6 +4,8 @@ This crash course provides a concise introduction to the most important aspects 
 
 ⚠ __Attention__ ⚠: This course might not be suited for beginners in programming without an instructor! Note that many parts of this course only show significantly simplified versions of software engineering activities!
 
+![User Needs](./pictures/neural_networks_baby.webp)
+
 Learning a new programming language is hard and things like this (s. [xkcd 1513](https://xkcd.com/1513/)) might happen if a pro looks at your first code:
 
 ![xkcd 1513](https://imgs.xkcd.com/comics/code_quality.png)
