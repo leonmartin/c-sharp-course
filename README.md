@@ -1,6 +1,6 @@
 ﻿# C# Crash Course
 
-This crash course provides a concise introduction to the most important aspects of the beautiful C# language for beginners. In this course, you will implement a small prototypical banking application that allows a user to perform typical tasks like viewing their account balance. The course is divided into several milestones: starting from an information systems perspective on the application in the conceptional stage to the actual implementation stages with hands-on programming.
+This crash course provides a concise introduction to the most important aspects of the beautiful C# language for beginners. In this course, you will implement a small prototypical banking application that allows a user to perform typical tasks like viewing their account balance. The course is divided into several milestones with different objectives, some more software engineering and information systems oriented and some, of course, C# programming oriented.
 
 ⚠ __Attention__ ⚠: This course might not be suited for beginners in programming without an instructor! Note that many parts of this course only show significantly simplified versions of software engineering activities!
 
@@ -37,7 +37,7 @@ Welcome to the C# crash course! 🚀
 
 ## Milestones
 
-For each milestone, a possible solution is provided. Depending on the scope of the application (that you set yourself) the provided solution and your solution might differ. Without an instructor, we recommend to use the provided solutions of each milestone as the starting point for the next one. The instructions, solutions and other material for each milestone are available in the individual milestone folders.
+For each milestone, a possible solution is provided. Depending on the scope of the application (that you set yourself) the provided solution and your solution might differ. Without an instructor, we strongly recommend to use the provided solutions of each milestone as the starting point for the next one because the instructions in the latter ones assume the previous solutions as starting points. The instructions, solutions and other material for each milestone are available in the individual milestone folders.
 
 So, you are now ready to start the crash course! 🥳 Open the [c-sharp-course](./) folder in the IDE/editor of your choice, read the [instructions.md file](./Milestone01/instructions.md) within the [Milestone01 folder](./Milestone01).
 
