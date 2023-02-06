@@ -39,20 +39,20 @@ Enjoy making your first steps in C#! 🥳
 So far, you have used basic data types, invoked some methods on them, and read some of their properties. Did you notice that the program you wrote was executed in a linear fashion? Now, we will add loops and if-then-else constructs to the mix to steer the control flow of our program.
 
 ```mermaid
-    graph TD;
-        Program 1 Start-->A;
-        A-->B;
-        B-->C;
-        C-->D;
-        D-->Program 1 End;
+    flowchart TD;
+        [Program 1 Start] --> A;
+        A --> B;
+        B --> C;
+        C --> D;
+        D --> [Program 1 End];
 
-        Program 2 Start-->A;
-        A-->B;
-        A-->C;
-        B-->D;
-        C-->D;
-        A-->D;
-        D-->Program 2 End;
+        [Program 2 Start] --> A;
+        A{Some if-then-else} --> B;
+        A{Some if-then-else} --> C;
+        B --> D;
+        C --> D;
+        A --> D;
+        D --> [Program 2 End];
 ```
 
 Solve the exercises in the Program.cs file in the templates/task02-2 folder.
