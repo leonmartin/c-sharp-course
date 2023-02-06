@@ -36,7 +36,7 @@ Enjoy making your first steps in C#! 🥳
 
 ## Task 02.2: Loops and if-then-else Constructs
 
-So far, you have used basic data types, invoked some methods on them, and read some of their properties. Did you notice that the program you wrote was executed in a linear fashion? Now, we will add loops and if-then-else constructs to the mix to steer the control flow of our program.
+So far, you have used basic data types, invoked some methods on them, and read some of their properties. Did you notice that the program you wrote was executed in a linear fashion like _Program 1_ below? Now, we will add loops and if-then-else constructs to the mix to steer the control flow resulting in more complex control flows like _Program 2_ below.
 
 ```mermaid
     flowchart TD;
@@ -60,7 +60,28 @@ Solve the exercises in the Program.cs file in the templates/task02-2 folder.
 
 ## Task 02.3: Creating your own Classes and Objects
 
-Congratulations, you know the basic building blocks to control the flow of your C# program. And without thinking about, you actually already used t
+Congratulations, you know the basic building blocks to control the flow of your C# program. And without thinking about it, you actually already used object-oriented programming. Every time you declared a variable and set its value you created an object, i.e. an instance of class specified as the type.
+
+For instance,
+
+```csharp
+string myString = "This is my string!";
+```
+
+instantiates an object of the [String class](https://learn.microsoft.com/en-us/dotnet/api/system.string?view=net-7.0) with `myString` as the name of the variable. Classes possess properties, and methods. This is the reason why you can access properties like `Length` or call methods like `ToUpper()` of the String instance `myString`. Using a UML class diagram, we could visualize the (simplified) String class as follows:
+
+```mermaid
+    classDiagram
+        class String{
+            +int Length
+            +...
+            +ToUpper()
+            +ToLower()
+            +...()
+        }
+```
+
+Next up, you will create your own classes and instantiate to access their properties and call their methods. Solve the exercises in the Program.cs file in the templates/task02-2 folder.
 
 ## Task 02.4: Processing User Input
 
