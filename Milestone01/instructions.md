@@ -47,12 +47,13 @@ So far, you have used basic data types, invoked some methods on them, and read s
         D1 --> Y1[Program 1 End];
 
         X2[Program 2 Start] --> A2;
-        A2{Some if-then-else} --> B2;
-        A2{Some if-then-else} --> C2;
-        B2 --> D2;
-        C2 --> D2;
-        D2 --|Some loop|> A2;
-        D2 --> Y2[Program 2 End];
+        A2 --> B2;
+        B2{Some if-then-else} --> C2;
+        B2{Some if-then-else} --> D2;
+        C2 --> E2;
+        D2 --> E2;
+        E2 -->|Some loop| A2;
+        E2 --> Y2[Program 2 End];
 ```
 
 Solve the exercises in the Program.cs file in the templates/task02-2 folder.
