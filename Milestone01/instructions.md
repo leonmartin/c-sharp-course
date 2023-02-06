@@ -40,7 +40,7 @@ So far, you have used basic data types, invoked some methods on them, and read s
 
 ```mermaid
     flowchart TD;
-        X1[Program 1 Start] --> A;
+        X1[Program 1 Start] --> A1;
         A1 --> B1;
         B1 --> C1;
         C1 --> D1;
@@ -51,7 +51,7 @@ So far, you have used basic data types, invoked some methods on them, and read s
         A2{Some if-then-else} --> C2;
         B2 --> D2;
         C2 --> D2;
-        A2 --> D2;
+        D2 --|Some loop|> A2;
         D2 --> Y2[Program 2 End];
 ```
 
