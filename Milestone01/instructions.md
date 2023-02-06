@@ -81,7 +81,29 @@ instantiates an object of the [String class](https://learn.microsoft.com/en-us/d
         }
 ```
 
-Next up, you will create your own classes and instantiate to access their properties and call their methods. Solve the exercises in the Program.cs file in the templates/task02-2 folder.
+Next up, you will create your own classes and instantiate to access their properties and call their methods. Solve the exercises in the Program.cs file in the templates/task02-3 folder.
 
 ## Task 02.4: Processing User Input
 
+Wow, even writing your own classes does not seem to be a problem for you. 😉
+
+You are now in the final task of this milestone. Here, you will learn how to ask a user for input during the execution of a program via the command line and how to parse the input, effectively implementing a [CLI (Command-Line Interface)](https://en.wikipedia.org/wiki/Command-line_interface).
+
+The exercises of this task will guide you through the implementation of a CLI that allows a user to input two numbers and perform calculations on them, as depicted in the UML Activity Diagram below. Solve the exercises in the Program.cs file in the templates/task02-4 folder.
+
+```mermaid
+    flowchart TD
+        Start(( ))-->A(Ask user what they want to do)
+        A-->B{ }
+        B-->|Add|C(Ask for the two numbers)
+        B-->|Subtract|D(Ask for the two numbers)
+        C-->E(Add the two numbers)
+        D-->F(Subtract the second from the first number)
+        E-->G(Display the result)
+        F-->G
+        G-->A
+        B-->|Exit|H(Quit the program)
+        H-->Finish((( )))
+ ```
+
+When you have finished this task, you can move on to Milestone 02 where we will conceptualize your banking application! 🚀

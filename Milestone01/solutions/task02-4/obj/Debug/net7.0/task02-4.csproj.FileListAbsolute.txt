@@ -1,0 +1,15 @@
+F:\GitRepositories\c-sharp-course\Milestone01\solutions\task02-4\obj\Debug\net7.0\task02-4.csproj.AssemblyReference.cache
+F:\GitRepositories\c-sharp-course\Milestone01\solutions\task02-4\obj\Debug\net7.0\task02-4.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitRepositories\c-sharp-course\Milestone01\solutions\task02-4\obj\Debug\net7.0\task02-4.AssemblyInfoInputs.cache
+F:\GitRepositories\c-sharp-course\Milestone01\solutions\task02-4\obj\Debug\net7.0\task02-4.AssemblyInfo.cs
+F:\GitRepositories\c-sharp-course\Milestone01\solutions\task02-4\obj\Debug\net7.0\task02-4.csproj.CoreCompileInputs.cache
+F:\GitRepositories\c-sharp-course\Milestone01\solutions\task02-4\bin\Debug\net7.0\task02-4.exe
+F:\GitRepositories\c-sharp-course\Milestone01\solutions\task02-4\bin\Debug\net7.0\task02-4.deps.json
+F:\GitRepositories\c-sharp-course\Milestone01\solutions\task02-4\bin\Debug\net7.0\task02-4.runtimeconfig.json
+F:\GitRepositories\c-sharp-course\Milestone01\solutions\task02-4\bin\Debug\net7.0\task02-4.dll
+F:\GitRepositories\c-sharp-course\Milestone01\solutions\task02-4\bin\Debug\net7.0\task02-4.pdb
+F:\GitRepositories\c-sharp-course\Milestone01\solutions\task02-4\obj\Debug\net7.0\task02-4.dll
+F:\GitRepositories\c-sharp-course\Milestone01\solutions\task02-4\obj\Debug\net7.0\refint\task02-4.dll
+F:\GitRepositories\c-sharp-course\Milestone01\solutions\task02-4\obj\Debug\net7.0\task02-4.pdb
+F:\GitRepositories\c-sharp-course\Milestone01\solutions\task02-4\obj\Debug\net7.0\task02-4.genruntimeconfig.cache
+F:\GitRepositories\c-sharp-course\Milestone01\solutions\task02-4\obj\Debug\net7.0\ref\task02-4.dll

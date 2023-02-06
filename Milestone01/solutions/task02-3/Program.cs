@@ -29,7 +29,7 @@ double difference = myCalculatorTwo.Subtract(numberOne, numberTwo);
 Console.WriteLine(difference);
 
 // Exercise 3
-// 1. Add a List called PreviousResults as a property to the Calculator class. You have to import the List object from System.Collections.Generic to do that.
+// 1. Add a List called PreviousResults as a property to the Calculator class. (Don't forget to import the List object from System.Collections.Generic.)
 // 2. Adjust the Add und Subtract such that the respective result is added to PreviousResults before it is returned.
 // 3. Make some calculations using the Calculator.
 // 4. Use a foreach loop to iterate the PreviousResults property and print each of them.
