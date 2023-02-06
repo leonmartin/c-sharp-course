@@ -41,18 +41,18 @@ So far, you have used basic data types, invoked some methods on them, and read s
 ```mermaid
     flowchart TD;
         X1[Program 1 Start] --> A;
-        A --> B;
-        B --> C;
-        C --> D;
-        D --> Y1[Program 1 End];
+        A1 --> B1;
+        B1 --> C1;
+        C1 --> D1;
+        D1 --> Y1[Program 1 End];
 
-        X2[Program 2 Start] --> A;
-        A{Some if-then-else} --> B;
-        A{Some if-then-else} --> C;
-        B --> D;
-        C --> D;
-        A --> D;
-        D --> Y2[Program 2 End];
+        X2[Program 2 Start] --> A2;
+        A2{Some if-then-else} --> B2;
+        A2{Some if-then-else} --> C2;
+        B2 --> D2;
+        C2 --> D2;
+        A2 --> D2;
+        D2 --> Y2[Program 2 End];
 ```
 
 Solve the exercises in the Program.cs file in the templates/task02-2 folder.
