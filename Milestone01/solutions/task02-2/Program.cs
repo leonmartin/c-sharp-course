@@ -98,6 +98,6 @@ foreach (double number in myNumbers)
     }
     else
     {
-         Console.WriteLine($"{number} is between 12 and 234.");
+        Console.WriteLine($"{number} is between 12 and 234.");
     }
 }
