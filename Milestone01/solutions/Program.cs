@@ -29,11 +29,34 @@ Console.WriteLine(favoriteAnimalStringTwo);
 // Store the string from Exercise 1 in a variable.
 // Store a second sentence in another string variable.
 // Print both strings on the console using only one Console.WriteLine statement.
+// Make sure there is a space between both sentences in the output.
 
 string favoriteAnimalStringThree = "Owls are my favorite animals.";
 string secondString = "This is another sentence.";
 
-Console.WriteLine(favoriteAnimalStringThree + secondString);
+Console.WriteLine(favoriteAnimalStringThree + " " + secondString);
+
+// Exercise 5
+// Store the string from Exercise 1 in a variable.
+// Use a string property to get the number of characters in the string.
+// Store the number of characters in a variable.
+// Print the sentence on the console and add the length of sentence in brackets behind it.
+
+string favoriteAnimalStringFour = "Owls are my favorite animals.";
+int numberOfCharacters = favoriteAnimalString.Length;
+
+Console.WriteLine(favoriteAnimalStringFour + " (" + numberOfCharacters + " characters)");
+
+// Exercise 5
+// Do the same as in Exercise 5 but print the result using string interpolation now.
+
+string favoriteAnimalStringFive = "Owls are my favorite animals.";
+int numberOfCharactersTwo = favoriteAnimalString.Length;
+
+Console.WriteLine($"{favoriteAnimalStringFive} ({numberOfCharactersTwo} characters)");
+
+// Exercise 5
+// Do the same as in Exercise 5 but print the result using string interpolation now.
 
 // Exercise 1
 // Write a statement that prints your name on the console
