@@ -40,20 +40,19 @@ So far, you have used basic data types, invoked some methods on them, and read s
 
 ```mermaid
     graph TD;
-        Start-->A;
+        Program 1 Start-->A;
         A-->B;
         B-->C;
         C-->D;
-        D-->End;
+        D-->Program 1 End;
 
-    graph TD;
-        Start-->A;
+        Program 2 Start-->A;
         A-->B;
         A-->C;
         B-->D;
         C-->D;
         A-->D;
-        D-->End;
+        D-->Program 2 End;
 ```
 
 Solve the exercises in the Program.cs file in the templates/task02-2 folder.
