@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ba3jv6\\Local Folders\\My Local Files\\Git\\c-sharp-course\\Milestone02\\Milestone02.csproj": {}
+    "F:\\GitRepositories\\c-sharp-course\\Milestone04\\solutions\\app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ba3jv6\\Local Folders\\My Local Files\\Git\\c-sharp-course\\Milestone02\\Milestone02.csproj": {
+    "F:\\GitRepositories\\c-sharp-course\\Milestone04\\solutions\\app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ba3jv6\\Local Folders\\My Local Files\\Git\\c-sharp-course\\Milestone02\\Milestone02.csproj",
-        "projectName": "Milestone02",
-        "projectPath": "C:\\Users\\ba3jv6\\Local Folders\\My Local Files\\Git\\c-sharp-course\\Milestone02\\Milestone02.csproj",
-        "packagesPath": "C:\\Users\\ba3jv6\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ba3jv6\\Local Folders\\My Local Files\\Git\\c-sharp-course\\Milestone02\\obj\\",
+        "projectUniqueName": "F:\\GitRepositories\\c-sharp-course\\Milestone04\\solutions\\app.csproj",
+        "projectName": "app",
+        "projectPath": "F:\\GitRepositories\\c-sharp-course\\Milestone04\\solutions\\app.csproj",
+        "packagesPath": "C:\\Users\\Leon\\.nuget\\packages\\",
+        "outputPath": "F:\\GitRepositories\\c-sharp-course\\Milestone04\\solutions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ba3jv6\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Leon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

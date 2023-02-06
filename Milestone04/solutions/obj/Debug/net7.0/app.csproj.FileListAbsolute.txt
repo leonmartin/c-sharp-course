@@ -58,3 +58,18 @@ C:\Users\ba3jv6\Local Folders\My Local Files\Git\c-sharp-course\Milestone03\obj\
 C:\Users\ba3jv6\Local Folders\My Local Files\Git\c-sharp-course\Milestone03\obj\Debug\net7.0\app.pdb
 C:\Users\ba3jv6\Local Folders\My Local Files\Git\c-sharp-course\Milestone03\obj\Debug\net7.0\app.genruntimeconfig.cache
 C:\Users\ba3jv6\Local Folders\My Local Files\Git\c-sharp-course\Milestone03\obj\Debug\net7.0\ref\app.dll
+F:\GitRepositories\c-sharp-course\Milestone04\solutions\bin\Debug\net7.0\app.exe
+F:\GitRepositories\c-sharp-course\Milestone04\solutions\bin\Debug\net7.0\app.deps.json
+F:\GitRepositories\c-sharp-course\Milestone04\solutions\bin\Debug\net7.0\app.runtimeconfig.json
+F:\GitRepositories\c-sharp-course\Milestone04\solutions\bin\Debug\net7.0\app.dll
+F:\GitRepositories\c-sharp-course\Milestone04\solutions\bin\Debug\net7.0\app.pdb
+F:\GitRepositories\c-sharp-course\Milestone04\solutions\obj\Debug\net7.0\app.csproj.AssemblyReference.cache
+F:\GitRepositories\c-sharp-course\Milestone04\solutions\obj\Debug\net7.0\app.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitRepositories\c-sharp-course\Milestone04\solutions\obj\Debug\net7.0\app.AssemblyInfoInputs.cache
+F:\GitRepositories\c-sharp-course\Milestone04\solutions\obj\Debug\net7.0\app.AssemblyInfo.cs
+F:\GitRepositories\c-sharp-course\Milestone04\solutions\obj\Debug\net7.0\app.csproj.CoreCompileInputs.cache
+F:\GitRepositories\c-sharp-course\Milestone04\solutions\obj\Debug\net7.0\app.dll
+F:\GitRepositories\c-sharp-course\Milestone04\solutions\obj\Debug\net7.0\refint\app.dll
+F:\GitRepositories\c-sharp-course\Milestone04\solutions\obj\Debug\net7.0\app.pdb
+F:\GitRepositories\c-sharp-course\Milestone04\solutions\obj\Debug\net7.0\app.genruntimeconfig.cache
+F:\GitRepositories\c-sharp-course\Milestone04\solutions\obj\Debug\net7.0\ref\app.dll
