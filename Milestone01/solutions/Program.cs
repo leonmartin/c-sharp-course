@@ -8,14 +8,16 @@
 Console.WriteLine("Owls are my favorite animals.");
 
 // Exercise 2
-// Store the string from Exercise 1 in a variable and print the variable on the console.
+// Store the string from Exercise 1 in a variable.
+// Print the variable on the console.
 
 string favoriteAnimalString = "Owls are my favorite animals.";
 
 Console.WriteLine(favoriteAnimalString);
 
 // Exercise 3
-// Store the string from Exercise 1 in a variable and use a string method to change every character within to upper case.
+// Store the string from Exercise 1 in a variable.
+// Use a string method to change every character of the variable to upper case.
 // Print the variable on the console afterwards.
 
 string favoriteAnimalStringTwo = "Owls are my favorite animals.";
@@ -23,14 +25,15 @@ favoriteAnimalStringTwo = favoriteAnimalStringTwo.ToUpper();
 
 Console.WriteLine(favoriteAnimalStringTwo);
 
-// Exercise 3
-// Store the string from Exercise 1 in a variable
-// Print the variable on the console afterwards.
+// Exercise 4
+// Store the string from Exercise 1 in a variable.
+// Store a second sentence in another string variable.
+// Print both strings on the console using only one Console.WriteLine statement.
 
 string favoriteAnimalStringThree = "Owls are my favorite animals.";
-favoriteAnimalStringThree = favoriteAnimalStringThree.ToUpper();
+string secondString = "This is another sentence.";
 
-Console.WriteLine(favoriteAnimalStringThree);
+Console.WriteLine(favoriteAnimalStringThree + secondString);
 
 // Exercise 1
 // Write a statement that prints your name on the console
