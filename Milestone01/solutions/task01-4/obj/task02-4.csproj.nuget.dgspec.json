@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\GitRepositories\\c-sharp-course\\Milestone01\\solutions\\task02-4\\task02-4.csproj": {}
+    "F:\\GitRepositories\\c-sharp-course\\Milestone01\\solutions\\task01-4\\task02-4.csproj": {}
   },
   "projects": {
-    "F:\\GitRepositories\\c-sharp-course\\Milestone01\\solutions\\task02-4\\task02-4.csproj": {
+    "F:\\GitRepositories\\c-sharp-course\\Milestone01\\solutions\\task01-4\\task02-4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\GitRepositories\\c-sharp-course\\Milestone01\\solutions\\task02-4\\task02-4.csproj",
+        "projectUniqueName": "F:\\GitRepositories\\c-sharp-course\\Milestone01\\solutions\\task01-4\\task02-4.csproj",
         "projectName": "task02-4",
-        "projectPath": "F:\\GitRepositories\\c-sharp-course\\Milestone01\\solutions\\task02-4\\task02-4.csproj",
+        "projectPath": "F:\\GitRepositories\\c-sharp-course\\Milestone01\\solutions\\task01-4\\task02-4.csproj",
         "packagesPath": "C:\\Users\\Leon\\.nuget\\packages\\",
-        "outputPath": "F:\\GitRepositories\\c-sharp-course\\Milestone01\\solutions\\task02-4\\obj\\",
+        "outputPath": "F:\\GitRepositories\\c-sharp-course\\Milestone01\\solutions\\task01-4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leon\\AppData\\Roaming\\NuGet\\NuGet.Config",

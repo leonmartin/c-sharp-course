@@ -8,7 +8,7 @@
 
 // Exercise 2
 // Extend the code from the previous exercise for this one.
-// 4. Use an if-then-else construct to execute code depending on the selected option.
+// 4. Use a switch to execute code depending on the selected option.
 //      - If the user wants to add or subtract two numbers, ask for the two numbers, parse them, and use the Calculator to get the result.
 //      - If the user wants to exit the program, terminate it using an appropriate method.
 
@@ -29,41 +29,48 @@ while (true)
     Enter one of the numbers to select one option:
     """);
 
-    string chosenOption = Console.ReadLine() ?? "0";
+    string chosenOption = Console.ReadLine() ?? "";
+    string numberOneString = "";
+    string numberTwoString = "";
+    double numberOne = 0;
+    double numberTwo = 0;
 
-    if (chosenOption == "1")
+    switch (chosenOption)
     {
-        Console.WriteLine("Please enter two numbers and hit enter in between:");
-        string numberOneString = Console.ReadLine() ?? "0";
-        string numberTwoString = Console.ReadLine() ?? "0";
 
-        double numberOne = Double.Parse(numberOneString);
-        double numberTwo = Double.Parse(numberTwoString);
+        case "1":
+            Console.WriteLine("Please enter two numbers and hit enter in between:");
+            numberOneString = Console.ReadLine() ?? "0";
+            numberTwoString = Console.ReadLine() ?? "0";
 
-        double sum = myCalculator.Add(numberOne, numberTwo);
-        
-        Console.WriteLine($"The result is: {sum}");
-    }
-    else if (chosenOption == "2")
-    {
-        Console.WriteLine("Please enter two numbers and hit enter in between::");
-        string numberOneString = Console.ReadLine() ?? "0";
-        string numberTwoString = Console.ReadLine() ?? "0";
+            numberOne = Double.Parse(numberOneString);
+            numberTwo = Double.Parse(numberTwoString);
 
-        double numberOne = Double.Parse(numberOneString);
-        double numberTwo = Double.Parse(numberTwoString);
+            double sum = myCalculator.Add(numberOne, numberTwo);
 
-        double difference = myCalculator.Subtract(numberOne, numberTwo);
+            Console.WriteLine($"The sum of the two numbers is {sum}");
+            break;
 
-        Console.WriteLine($"The result is: {difference}");
-    }
-    else if (chosenOption == "3")
-    {
-        Console.WriteLine("Bye Bye!");
-        System.Environment.Exit(0);
-    }
-    else
-    {
-        Console.WriteLine("This option is not supported!");
+        case "2":
+            Console.WriteLine("Please enter two numbers and hit enter in between::");
+            numberOneString = Console.ReadLine() ?? "0";
+            numberTwoString = Console.ReadLine() ?? "0";
+
+            numberOne = Double.Parse(numberOneString);
+            numberTwo = Double.Parse(numberTwoString);
+
+            double difference = myCalculator.Subtract(numberOne, numberTwo);
+
+            Console.WriteLine($"The difference of the two numbers is {difference}");
+            break;
+
+        case "3":
+            Console.WriteLine("Bye Bye!");
+            System.Environment.Exit(0);
+            break;
+
+        default:
+            Console.WriteLine("This option is not supported!");
+            break;
     }
 }
