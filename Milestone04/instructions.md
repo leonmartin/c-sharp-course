@@ -1,17 +1,22 @@
 # Milestone 04: The User Interface
 
-Maybe you have been wondering why there wasn't any programming yet even though this is supposed to be programming crash course. Well, the wait is over. After making the concept of our application explicit using UML diagrams, we can now finally start programming. 🥳
+You now have a program that implements the business logic of your application. As the final milestone of this crash course, you will now transform it into an interactive application by adding the user interface. Keep on going, you are almost at the finish line! 🚀
 
 The objectives of this milestone are:
 
-- Getting used to the C# syntax
-- Create your first C# class
-- Get to know loops and if-then-else constructs
+- Implementing the user interface of your application
 
-## Task 02.1: The basics of C# 
+## Task 04-1: Implementing the CLI
 
-## Task 02.2: Implementing a CLI
+Again, have a look at your class diagram and see how the user interface connects to the business logic. Of course, the user interface should be a CLI that you learned to implement in an earlier milestone. When you are done and your program works, read the next and final paragraph.
 
-This marks the end of the crash course! I hope you enjoyed it and learned something useful. You are now ready for the real world:
+## Congratulations!
+
+Wow, you really did it! You implemented your first C# application! Great work! 🥳🎉🎊
+
+This marks the end of the crash course! I hope you enjoyed it and learned something useful. As a final surprise have a look at the certificate. Feel free to print it out. If you have an instructor maybe he can sign it. Otherwise, you can also issue the certificate to yourself, because after all,you know did it, and you did it for yourself to improve, which is the greatest achievement. No signature can change that. 😉
+
+Of course, you are now ready for the real world:
 
 ![Bachelor versus Coding Camps](../pictures/bachelor_versus_camps.jpg)
+

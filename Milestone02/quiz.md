@@ -1,4 +1,4 @@
-# Milestone 01 Quiz
+# Milestone 02 Quiz
 
 - What is the purpose of UML diagrams in general?
 
