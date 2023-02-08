@@ -1,0 +1,15 @@
+F:\GitRepositories\c-sharp-course\Milestone03\solutions\bin\Debug\net7.0\task03-1.exe
+F:\GitRepositories\c-sharp-course\Milestone03\solutions\bin\Debug\net7.0\task03-1.deps.json
+F:\GitRepositories\c-sharp-course\Milestone03\solutions\bin\Debug\net7.0\task03-1.runtimeconfig.json
+F:\GitRepositories\c-sharp-course\Milestone03\solutions\bin\Debug\net7.0\task03-1.dll
+F:\GitRepositories\c-sharp-course\Milestone03\solutions\bin\Debug\net7.0\task03-1.pdb
+F:\GitRepositories\c-sharp-course\Milestone03\solutions\obj\Debug\net7.0\task03-1.csproj.AssemblyReference.cache
+F:\GitRepositories\c-sharp-course\Milestone03\solutions\obj\Debug\net7.0\task03-1.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitRepositories\c-sharp-course\Milestone03\solutions\obj\Debug\net7.0\task03-1.AssemblyInfoInputs.cache
+F:\GitRepositories\c-sharp-course\Milestone03\solutions\obj\Debug\net7.0\task03-1.AssemblyInfo.cs
+F:\GitRepositories\c-sharp-course\Milestone03\solutions\obj\Debug\net7.0\task03-1.csproj.CoreCompileInputs.cache
+F:\GitRepositories\c-sharp-course\Milestone03\solutions\obj\Debug\net7.0\task03-1.dll
+F:\GitRepositories\c-sharp-course\Milestone03\solutions\obj\Debug\net7.0\refint\task03-1.dll
+F:\GitRepositories\c-sharp-course\Milestone03\solutions\obj\Debug\net7.0\task03-1.pdb
+F:\GitRepositories\c-sharp-course\Milestone03\solutions\obj\Debug\net7.0\task03-1.genruntimeconfig.cache
+F:\GitRepositories\c-sharp-course\Milestone03\solutions\obj\Debug\net7.0\ref\task03-1.dll
