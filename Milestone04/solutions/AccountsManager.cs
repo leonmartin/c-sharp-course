@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-  
-class AccountsManager {
+﻿class AccountsManager {
 
     public List<Account> Accounts;
 

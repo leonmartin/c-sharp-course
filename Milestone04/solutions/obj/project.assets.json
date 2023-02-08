@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\GitRepositories\\c-sharp-course\\Milestone04\\solutions\\app.csproj",
-      "projectName": "app",
-      "projectPath": "F:\\GitRepositories\\c-sharp-course\\Milestone04\\solutions\\app.csproj",
+      "projectUniqueName": "F:\\GitRepositories\\c-sharp-course\\Milestone04\\solutions\\task04-1.csproj",
+      "projectName": "task04-1",
+      "projectPath": "F:\\GitRepositories\\c-sharp-course\\Milestone04\\solutions\\task04-1.csproj",
       "packagesPath": "C:\\Users\\Leon\\.nuget\\packages\\",
       "outputPath": "F:\\GitRepositories\\c-sharp-course\\Milestone04\\solutions\\obj\\",
       "projectStyle": "PackageReference",
