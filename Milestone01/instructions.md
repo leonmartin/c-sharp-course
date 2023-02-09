@@ -16,7 +16,7 @@ The objectives of this milestone are:
 
 ## Task 01-1: Working with Different Data Types
 
-Have a look at the Program.cs in the template/task01-1 folder. This is the entry point for the following tasks. A few versions ago, so called [Top-Level Statements](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/top-level-statements) were added to C#. They allow you to write your C# statements directly into an empty .cs file and run it without any additional boilerplate code. As you can see, in the top of the file there is the C# statement
+Have a look at the [Program.cs file](./templates/task01-1/Program.cs) in the [template/task01-1 folder](./templates/task01-1/). This is the entry point for the following tasks. A few versions ago, so called [Top-Level Statements](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/top-level-statements) were added to C#. They allow you to write your C# statements directly into an empty .cs file and run it without any additional boilerplate code. As you can see, in the top of the file there is the C# statement
 
 ```csharp
 Console.WriteLine("Hm, doesn't look that difficult.");
@@ -56,7 +56,7 @@ So far, you have used basic data types, invoked some methods on them, and read s
         E2 --> Y2[Program 2 End];
 ```
 
-Solve the exercises in the Program.cs file in the templates/task01-2 folder.
+Solve the exercises in the [Program.cs file](./templates/task01-2/Program.cs) in the [templates/task01-2 folder](./templates/task01-2/).
 
 ## Task 01-3: Creating your own Classes and Objects
 
@@ -81,7 +81,7 @@ instantiates an object of the [String class](https://learn.microsoft.com/en-us/d
         }
 ```
 
-Next up, you will create your own classes and instantiate to access their properties and call their methods. Solve the exercises in the Program.cs file in the templates/task01-3 folder.
+Next up, you will create your own classes and instantiate to access their properties and call their methods. Solve the exercises in the [Program.cs file](./templates/task01-3/Program.cs) in the [templates/task01-3 folder](./templates/task01-3/).
 
 ## Task 01-4: Processing User Input
 
@@ -89,7 +89,7 @@ Wow, even writing your own classes does not seem to be a problem for you. 😉
 
 You are now in the final task of this milestone. Here, you will learn how to ask a user for input during the execution of a program via the command line and how to parse the input, effectively implementing a [CLI (Command-Line Interface)](https://en.wikipedia.org/wiki/Command-line_interface).
 
-The exercises of this task will guide you through the implementation of a CLI that allows a user to input two numbers and perform calculations on them, as depicted in the UML Activity Diagram below. Solve the exercises in the Program.cs file in the templates/task01-4 folder.
+The exercises of this task will guide you through the implementation of a CLI that allows a user to input two numbers and perform calculations on them, as depicted in the UML Activity Diagram below. Solve the exercises in the [Program.cs file](./templates/task01-4/Program.cs) in the [templates/task01-4 folder](./templates/task01-4/).
 
 ```mermaid
     flowchart TD
@@ -106,4 +106,8 @@ The exercises of this task will guide you through the implementation of a CLI th
         H-->Finish((( )))
  ```
 
-When you have finished this task, you can move on to Milestone 02 where we will conceptualize your banking application! 🚀
+## Task 01-5: Quiz Time
+
+Congratulations, you took your first steps in the C# language!
+
+To test wether you got the most important points of this milestone, answer the questions in the [quiz.md file](./quiz.md). When you are done, you can proceed to the next Milestone.

@@ -14,7 +14,7 @@ Again, have a look at your class diagram and see how the user interface connects
 
 Wow, you really did it! You implemented your first C# application! Great work! 🥳🎉🎊
 
-This marks the end of the crash course! I hope you enjoyed it and learned something useful. As a final surprise have a look at the [Certificate](../other/certificate_csharp_crashcourse.pdf). Feel free to print it out. If you have an instructor maybe he can sign it. Otherwise, you can also issue the certificate to yourself, because after all, you know did it, and you did it for yourself to improve, which is the greatest achievement. No signature can change that. 😉
+This marks the end of the crash course! I hope you enjoyed it and learned something useful. As a final surprise have a look at the [Certificate](../other/certificate_csharp_crashcourse.pdf). Feel free to print it out. If you have an instructor ask her or him to sign it. Otherwise, you can also issue the certificate to yourself, because after all, you know you did it, and you did it for yourself to improve, which is the greatest achievement. No signature can change that. 😉
 
 Of course, you are now ready for the real world:
 
