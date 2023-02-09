@@ -1,6 +1,6 @@
 ﻿# C# Crash Course
 
-This crash course provides a concise introduction to the most important aspects of the beautiful C# language for beginners. In this course, you will implement a small prototypical banking application that allows a user to perform typical tasks like viewing their account balance. The course is divided into several milestones with different objectives, some more software engineering and information systems oriented and some, of course, C# programming oriented.
+This crash course provides a concise introduction to the most important aspects of the beautiful C# language for beginners. In this course, you will implement a small prototypical __banking application__ that allows a user to perform typical tasks like viewing their account balance. The course is divided into several milestones with different objectives, some more software engineering and information systems oriented and some, of course, C# programming oriented.
 
 ⚠ __Attention__ ⚠: This course might not be suited for beginners in programming without an instructor! Note that many parts of this course only show significantly simplified versions of software engineering activities!
 
@@ -29,7 +29,7 @@ Another option would be to leverage online code editors that feature a C# runtim
 
 More advanced users, can also use the [Visual Studio Code editor](https://visualstudio.microsoft.com/de/) and [Docker](https://www.docker.com/) for running the C# code in a container, for example. This way, no other binaries have to be installed. To start the container, simply run ``docker compose run csharp`` in the terminal of VSCode.
 
-Regardless of the option you chose, your setup is complete if you are able execute the provided __Hello World__ program. To do this, open the [c-sharp-course folder](./) in the IDE/editor of your choice, then open the [Program.cs file](./HelloWorld/Program.cs) within the [HelloWorld folder](./HelloWorld) and run it. You should see an output like:
+Regardless of the option you chose, your setup works if you are able execute the provided __Hello World__ program. To do this, open the [c-sharp-course folder](./) in the IDE/editor of your choice, then open the [Program.cs file](./HelloWorld/Program.cs) within the [HelloWorld folder](./HelloWorld) and run it. You should see an output like:
 
 ```
 Welcome to the C# crash course! 🚀
@@ -37,9 +37,9 @@ Welcome to the C# crash course! 🚀
 
 ## Milestones
 
-For each milestone, a possible solution is provided. Depending on the scope of the application (that you set yourself) the provided solution and your solution might differ. Without an instructor, we strongly recommend to use the provided solutions of each milestone as the starting point for the next one because the instructions in the latter ones assume the previous solutions as starting points. The instructions, solutions and other material for each milestone are available in the individual milestone folders.
+For each milestone, possible solutions is provided. Depending on the scope of the application (that you set yourself) the provided solution and your solution might differ. Without an instructor, we strongly recommend to use the provided solutions of each milestone as the starting point for the next one because the instructions in the latter ones assume the previous solutions as starting points. The instructions, solutions and other material for each milestone are available in the individual milestone folders.
 
-So, you are now ready to start the crash course! 🥳 Open the [c-sharp-course](./) folder in the IDE/editor of your choice, read the [instructions.md file](./Milestone01/instructions.md) within the [Milestone01 folder](./Milestone01).
+You are now ready to start the crash course! 🥳 Open the [c-sharp-course](./) folder in the IDE/editor of your choice, read the [instructions.md file](./Milestone01/instructions.md) within the [Milestone01 folder](./Milestone01).
 
 ## Technical Details
 

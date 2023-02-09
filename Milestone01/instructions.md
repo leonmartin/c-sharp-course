@@ -2,7 +2,7 @@
 
 Good news, the wait is over. You will now write your first C# code. 🥳
 
-But, before we dive into the conception and implementation of our banking application, we will do some simple C# exercises first. The exercises are designed to specifically prepare you for the implementation of the banking app.
+But, before we dive into the conception and implementation of our banking application, we will do some introductory C# exercises first. The exercises are designed to specifically prepare you for the implementation of the banking app.
 
 ![Tutorial versus IDE](../pictures/tutorial_versus_ide.webp)
 
@@ -28,15 +28,15 @@ which prints the string
 "Hm, doesn't look that difficult."
 ```
 
-and a view output messages to your console when the program is executed. Go ahead and execute the program to make sure that everything works.
+on the console and a view output messages to your console when the program is executed. Go ahead and execute the program to make sure that everything works.
 
-Below this line, you will find exercises for you to solve. Remember that you can always consult the resources mentioned in the [README file](../README.md) if you are stuck. Try to solve the exercises yourself first before looking at the solutions (This is really important!).
+Within the file, you will find exercises for you to solve now. Remember that you can always consult the resources mentioned in the [README file](../README.md) if you are stuck. Try to solve the exercises yourself first before looking at the solutions (This is really important!).
 
 Enjoy making your first steps in C#! 🥳
 
 ## Task 01-2: Loops and if-then-else Constructs
 
-So far, you have used basic data types, invoked some methods on them, and read some of their properties. Did you notice that the program you wrote was executed in a linear fashion like _Program 1_ below? Now, we will add loops and if-then-else constructs to the mix to steer the control flow resulting in more complex control flows like _Program 2_ below.
+So far, you have used basic data types, invoked some methods on them, and read some of their properties. Did you notice that the program you wrote was executed in a linear fashion (cf. _Program 1_ below)? Now, we will add loops and if-then-else constructs which yields more complex control flows (cf. _Program 2_ below).
 
 ```mermaid
     flowchart TD;
@@ -60,7 +60,7 @@ Solve the exercises in the Program.cs file in the templates/task01-2 folder.
 
 ## Task 01-3: Creating your own Classes and Objects
 
-Congratulations, you know the basic building blocks to control the flow of your C# program. And without thinking about it, you actually already used object-oriented programming. Every time you declared a variable and set its value you created an object, i.e. an instance of the class specified as the type.
+Congratulations, you know the basic building blocks to control the flow of your C# program. And without thinking about it, you actually already used object-oriented programming. Every time you declared a variable and set its value you created an object, i.e. an instance of the class or struct specified as the type.
 
 For instance,
 
@@ -106,4 +106,4 @@ The exercises of this task will guide you through the implementation of a CLI th
         H-->Finish((( )))
  ```
 
-When you have finished this task, you can move on to Milestone 01 where we will conceptualize your banking application! 🚀
+When you have finished this task, you can move on to Milestone 02 where we will conceptualize your banking application! 🚀
