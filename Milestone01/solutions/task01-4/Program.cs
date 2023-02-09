@@ -1,4 +1,4 @@
-﻿// Task 02.4: Processing User Input
+﻿// Task 01.4: Processing User Input
 
 // Exercise 1
 // 1. Instantiate the Calculator.
@@ -14,7 +14,7 @@
 
 // Exercise 3
 // Extend the code from the previous exercise for this one.
-// 5. Put everything that shall be repeated after a user interaction in a never-ending loop. 
+// 5. Put everything that shall be repeated after a user interaction in a never-ending while loop. 
 
 Calculator myCalculator = new Calculator();
 
