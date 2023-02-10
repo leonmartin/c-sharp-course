@@ -1,4 +1,5 @@
-﻿class UserInterface {
+﻿class UserInterface
+{
 
     public AccountsManager Manager;
 
@@ -10,7 +11,7 @@
         (4) Exit.
         """;
 
-    public UserInterface() 
+    public UserInterface()
     {
         Manager = new AccountsManager();
     }
@@ -40,7 +41,7 @@
                 {
                     Console.WriteLine("\t\t" + transaction);
                 }
-                
+
                 return;
             }
         }
@@ -73,7 +74,7 @@
         """);
         System.Environment.Exit(0);
     }
-  
+
     public void LaunchUserInterface()
     {
 
