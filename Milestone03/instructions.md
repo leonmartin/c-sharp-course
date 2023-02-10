@@ -10,6 +10,8 @@ The objectives of this milestone are:
 
 - Implementing the business logic of the banking application
 
+You will find the solutions for this milestone in the [templates folder of Milestone 04](../Milestone04/templates/).
+
 ## Task 03-1: Implementing the Business Logic
 
 The business logic of an application is the part that encodes the real-world business rules underlying its features. It is different from other parts of the program that are related to the user interface or low-level database interaction. Previously, you already created diagrams defining the use cases, the workflows, and even the classes of your application.
