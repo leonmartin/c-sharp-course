@@ -33,7 +33,14 @@
         {
             if (account.AccountNumber == accountNumber)
             {
-                Console.WriteLine($"Account {account.AccountNumber}: {account.Balance} Euro after {account.Transactions.Count} transactions.");
+                Console.WriteLine($"Account {account.AccountNumber} has {account.Balance} Euro.");
+                Console.WriteLine($"\t{account.Transactions.Count} transactions are on record:");
+
+                foreach (Transaction transaction in account.Transactions)
+                {
+                    Console.WriteLine("\t\t" + transaction);
+                }
+                
                 return;
             }
         }
@@ -50,6 +57,7 @@
             if (account.AccountNumber == accountNumber)
             {
                 account.MakeTransaction(amount, otherAccountNumber);
+                return;
             }
         }
 
@@ -96,7 +104,7 @@
                     break;
 
                 case 2:
-                    Console.Write("Please enter the account number: ");
+                    Console.Write("Please enter number of the account to be viewed: ");
                     string accountNumber = Console.ReadLine() ?? "1";
 
                     DisplayAccountDetails(accountNumber);
